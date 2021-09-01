@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rockb/CLionProjects/Week1Assignment/Source.cpp
+iostream
+-
+clockType.h
+C:/Users/rockb/CLionProjects/Week1Assignment/clockType.h
+rectangleType.h
+C:/Users/rockb/CLionProjects/Week1Assignment/rectangleType.h
+
+C:/Users/rockb/CLionProjects/Week1Assignment/clockType.h
+
+C:/Users/rockb/CLionProjects/Week1Assignment/rectangleType.h
+
