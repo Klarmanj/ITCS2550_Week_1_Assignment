@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/Source.cpp
+C:/Users/rockb/CLionProjects/Week1Assignment/Source.cpp
 iostream
 -
 clockType.h
-C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/clockType.h
+C:/Users/rockb/CLionProjects/Week1Assignment/clockType.h
 boxType.h
-C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/boxType.h
+C:/Users/rockb/CLionProjects/Week1Assignment/boxType.h
 
-C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/boxType.h
+C:/Users/rockb/CLionProjects/Week1Assignment/boxType.h
 iostream
 -
 rectangleType.h
-C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/rectangleType.h
+C:/Users/rockb/CLionProjects/Week1Assignment/rectangleType.h
 
-C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/clockType.h
+C:/Users/rockb/CLionProjects/Week1Assignment/clockType.h
 
-C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/rectangleType.h
+C:/Users/rockb/CLionProjects/Week1Assignment/rectangleType.h
 

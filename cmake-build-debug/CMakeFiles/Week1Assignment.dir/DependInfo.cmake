@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/Source.cpp" "C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/cmake-build-debug/CMakeFiles/Week1Assignment.dir/Source.cpp.obj"
-  "C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/boxType.cpp" "C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/cmake-build-debug/CMakeFiles/Week1Assignment.dir/boxType.cpp.obj"
-  "C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/clockType.cpp" "C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/cmake-build-debug/CMakeFiles/Week1Assignment.dir/clockType.cpp.obj"
-  "C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/rectangleType.cpp" "C:/Users/rockb/CLionProjects/ITCS2550_Week_1_Assignment/ITCS2550_Week_1_Assignment/cmake-build-debug/CMakeFiles/Week1Assignment.dir/rectangleType.cpp.obj"
+  "C:/Users/rockb/CLionProjects/Week1Assignment/Source.cpp" "C:/Users/rockb/CLionProjects/Week1Assignment/cmake-build-debug/CMakeFiles/Week1Assignment.dir/Source.cpp.obj"
+  "C:/Users/rockb/CLionProjects/Week1Assignment/boxType.cpp" "C:/Users/rockb/CLionProjects/Week1Assignment/cmake-build-debug/CMakeFiles/Week1Assignment.dir/boxType.cpp.obj"
+  "C:/Users/rockb/CLionProjects/Week1Assignment/clockType.cpp" "C:/Users/rockb/CLionProjects/Week1Assignment/cmake-build-debug/CMakeFiles/Week1Assignment.dir/clockType.cpp.obj"
+  "C:/Users/rockb/CLionProjects/Week1Assignment/rectangleType.cpp" "C:/Users/rockb/CLionProjects/Week1Assignment/cmake-build-debug/CMakeFiles/Week1Assignment.dir/rectangleType.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
