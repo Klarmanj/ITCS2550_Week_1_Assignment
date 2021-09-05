@@ -1,6 +1,6 @@
 #include <iostream>
 #include "clockType.h"
-#include "rectangleType.h"
+#include "boxType.h"
 
 using namespace std;
 int main() {
@@ -23,7 +23,7 @@ int main() {
     else
         cout << "These clocks are the same" << endl;
 
-    cout << endl << endl;
+    cout << endl;
     rectangleType rectangle;
     rectangleType rectangle2(3.5, 5.7);
     rectangle.setDimension(3.5, 4.5);
@@ -34,4 +34,18 @@ int main() {
     cout << endl;
     cout << "Rectangle 2" << endl;
     rectangle2.print();
+    cout << endl;
+
+    boxType box;
+    boxType box2(4.6, 6.7, 9.0);
+    cout << "Box 1" << endl;
+    box.setDimension(3.4, 5.5, 7.7);
+    box.getLength();
+    box.getWidth();
+    box.getHeight();
+    box.area();
+    box.print();
+    cout << endl;
+    cout << "Box 2" << endl;
+    box2.print();
 }

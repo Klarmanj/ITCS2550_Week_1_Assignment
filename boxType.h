@@ -8,7 +8,15 @@ public:
     double area() const;
     double volume() const;
     void print() const;
-    boxType();
-    boxType(double, double, double);
+    boxType(){
+        length = 5;
+        width = 10;
+        height = 4;
+    }
+    boxType(double l, double w, double h){
+        length = l;
+        width = w;
+        height = h;
+    }
 };
 

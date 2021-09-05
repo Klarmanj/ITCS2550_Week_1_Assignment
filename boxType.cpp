@@ -21,4 +21,6 @@ void boxType::print() const {
     cout << "Length: " << length << endl;
     cout << "Width: " << width << endl;
     cout << "Height: " << height << endl;
+    cout << "Area: " << area() <<endl;
+    cout << "Volume: " << volume() << endl;
 }
